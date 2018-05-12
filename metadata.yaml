@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '42886'
     url: http://www.gutenberg.org/2009/agents/42886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44653#A-Latin-Grammar-for-Schools-and-Colleges
 gutenberg_issued: '2014-01-20'
 gutenberg_type: Text
 identifiers:
